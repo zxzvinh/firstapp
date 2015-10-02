@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/mean/data","disabled":false},"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"E:/mean/data","disabled":false},"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"E:/mean/data","disabled":false}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/mean/data","disabled":false}}}
